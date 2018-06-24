@@ -1,0 +1,13 @@
+注意事项：
+
+1. 如果正常安装了JAVA运行时环境(JRE), 可以直接双击运行ITCastSnake1.jar 文件, 即可运行游戏程序；或者在ITCastSnake1.jar 文件上单击鼠标右键,并选择打开方式为 "Java(TM) 2 Platform Standard Edition binary"，也可以将游戏程序运行起来。
+
+
+2. 如果JAVA运行时环境(JRE)不是正常安装的，但可以正常使用java.exe命令，那么可以双击ITCastSnake.bat 文件，也可以立即将游戏程序运行起来。
+
+
+3. 如果没有JAVA运行时环境(JRE),可以到http://java.sun.com/javase/downloads/index.jsp 下载并安装
+
+4. 如果想参照视频的讲课，使用传智播客提供的游戏API类组装自己的游戏程序，请直接将jar包导入进行自己的开发和运行环境中，编写程序的过程中可以参看本目录中提供的API类的帮助文档。
+
+5. 如果您想参加传智播客举办的免费游戏开发培训班，或有任何其他问题，都可以给我们发邮件咨询，技术咨询邮件地址为flx@itcast.cn，网站为http://www.itcast.cn
