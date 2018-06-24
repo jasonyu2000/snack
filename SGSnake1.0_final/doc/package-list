@@ -1,0 +1,6 @@
+com.huawei.snake.controller
+com.huawei.snake.entities
+com.huawei.snake.game
+com.huawei.snake.listener
+com.huawei.snake.util
+com.huawei.snake.view
